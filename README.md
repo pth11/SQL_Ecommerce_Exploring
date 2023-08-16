@@ -20,7 +20,7 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset. Please see the coding file attached above
 
 ## IV. Conclusion
+- In general, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
+- By exploring the eCommerce dataset, I have gained valuable information about total visits, pageviews, transactions, bounce rates,  revenue per traffic source, etc., which could inform future business decisions.
+- To deep dive into the insights and key trends, the next step is to visualize output with visualization platforms like Power BI, Tableau,...
 
-- By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transactions, bounce rate, and revenue per traffic source,.... which could inform future business decisions.
-- To deep dive into the insights and key trends, the next step will visualize the data with some software like Power BI,Tableau,...
-- Overall, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
