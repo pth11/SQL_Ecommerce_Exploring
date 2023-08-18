@@ -18,7 +18,9 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 
 ## III. Exploring the Dataset
 
-In this project, I will write 08 query in Bigquery base on Google Analytics dataset. Please see the coding file attached above
+In this project, I will write 08 query in Bigquery base on Google Analytics dataset. Please see the coding file attached or reach the link below:
+
+https://console.cloud.google.com/bigquery?sq=838622942956:86b4afa12ab64f6b854066918690f7fe
 
 ## IV. Conclusion
 - In general, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
