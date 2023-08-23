@@ -21,7 +21,7 @@ To query and work with this dataset, the author uses the Google BigQuery tool to
 
 <div id='clean_data'/>
   
-## 2.The goal of creating this project
+## 2. The goal of creating this project
 - Overview of website activity
 - Bounce rate analysis
 - Revenue analysis
@@ -30,7 +30,7 @@ To query and work with this dataset, the author uses the Google BigQuery tool to
 
 <div id='cau3'/>
   
-## 3.Import raw data
+## 3. Import raw data
   
 The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 - Log in to your Google Cloud Platform account and create a new project.
@@ -958,7 +958,7 @@ However, the add-to-cart rate and purchase rate are notably higher in March 2017
 
 <div id='cau7'/>
   
-## 7.Conclusion
+## 7. Conclusion
 
 - This is the author's opportunity to learn about the marketing industry and the customer journey through this e-commerce dataset
 
